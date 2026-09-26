@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[Tecno Phone Overheating Warning While Plugged In: Sensor vs Port Fix](https://qevra.buzz/articles/tecno-phone-overheating-warning-while-plugged-in-sensor-vs-port-fix-mui5syhn)**
+  *Canonical Source: [https://qevra.buzz/articles/tecno-phone-overheating-warning-while-plugged-in-sensor-vs-port-fix-mui5syhn](https://qevra.buzz/articles/tecno-phone-overheating-warning-while-plugged-in-sensor-vs-port-fix-mui5syhn)*
+
+
 - **[Why Is My Charger Taking Away Battery? How to Fix It](https://qevra.buzz/articles/why-is-my-charger-taking-away-battery-how-to-fix-it-muhzspvj)**
   *Canonical Source: [https://qevra.buzz/articles/why-is-my-charger-taking-away-battery-how-to-fix-it-muhzspvj](https://qevra.buzz/articles/why-is-my-charger-taking-away-battery-how-to-fix-it-muhzspvj)*
 
