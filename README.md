@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[How to Fix Secondary Rear Display Not Working on Xiaomi 18 Pro | Qevra Buzz](https://qevra.buzz/articles/how-to-fix-secondary-rear-display-not-working-on-xiaomi-18-pro-qevra-buzz-muhnsnjy)**
+  *Canonical Source: [https://qevra.buzz/articles/how-to-fix-secondary-rear-display-not-working-on-xiaomi-18-pro-qevra-buzz-muhnsnjy](https://qevra.buzz/articles/how-to-fix-secondary-rear-display-not-working-on-xiaomi-18-pro-qevra-buzz-muhnsnjy)*
+
+
 - **[How to Fix Overheating on Snapdragon 8 Elite Gen 6 Phones | Qevra Buzz](https://qevra.buzz/articles/how-to-fix-overheating-on-snapdragon-8-elite-gen-6-phones-qevra-buzz-muhnowhp)**
   *Canonical Source: [https://qevra.buzz/articles/how-to-fix-overheating-on-snapdragon-8-elite-gen-6-phones-qevra-buzz-muhnowhp](https://qevra.buzz/articles/how-to-fix-overheating-on-snapdragon-8-elite-gen-6-phones-qevra-buzz-muhnowhp)*
 
