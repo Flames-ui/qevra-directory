@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[Tecno Camon Fingerprint Sensor Not Responding After Screen Replacement| Full Fix Guide](https://qevra.buzz/articles/tecno-camon-fingerprint-sensor-not-responding-after-screen-replacement-full-fix-guide-mui67qhk)**
+  *Canonical Source: [https://qevra.buzz/articles/tecno-camon-fingerprint-sensor-not-responding-after-screen-replacement-full-fix-guide-mui67qhk](https://qevra.buzz/articles/tecno-camon-fingerprint-sensor-not-responding-after-screen-replacement-full-fix-guide-mui67qhk)*
+
+
 - **[Infinix XOS Charging Animation Shows but Percentage Never Moves| Full Fix Guide](https://qevra.buzz/articles/infinix-xos-charging-animation-shows-but-percentage-never-moves-full-fix-guide-mui62ins)**
   *Canonical Source: [https://qevra.buzz/articles/infinix-xos-charging-animation-shows-but-percentage-never-moves-full-fix-guide-mui62ins](https://qevra.buzz/articles/infinix-xos-charging-animation-shows-but-percentage-never-moves-full-fix-guide-mui62ins)*
 
