@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[How to Fix OnePlus 16 Camera Lag and 200MP High-Pixel Mode Errors | Qevra Buzz](https://qevra.buzz/articles/how-to-fix-oneplus-16-camera-lag-and-200mp-high-pixel-mode-errors-qevra-buzz-muho4eio)**
+  *Canonical Source: [https://qevra.buzz/articles/how-to-fix-oneplus-16-camera-lag-and-200mp-high-pixel-mode-errors-qevra-buzz-muho4eio](https://qevra.buzz/articles/how-to-fix-oneplus-16-camera-lag-and-200mp-high-pixel-mode-errors-qevra-buzz-muho4eio)*
+
+
 - **[How to Fix Secondary Rear Display Not Working on Xiaomi 18 Pro | Qevra Buzz](https://qevra.buzz/articles/how-to-fix-secondary-rear-display-not-working-on-xiaomi-18-pro-qevra-buzz-muhnsnjy)**
   *Canonical Source: [https://qevra.buzz/articles/how-to-fix-secondary-rear-display-not-working-on-xiaomi-18-pro-qevra-buzz-muhnsnjy](https://qevra.buzz/articles/how-to-fix-secondary-rear-display-not-working-on-xiaomi-18-pro-qevra-buzz-muhnsnjy)*
 
