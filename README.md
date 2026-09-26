@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[Why Is My Charger Taking Away Battery? How to Fix It](https://qevra.buzz/articles/why-is-my-charger-taking-away-battery-how-to-fix-it-muhzspvj)**
+  *Canonical Source: [https://qevra.buzz/articles/why-is-my-charger-taking-away-battery-how-to-fix-it-muhzspvj](https://qevra.buzz/articles/why-is-my-charger-taking-away-battery-how-to-fix-it-muhzspvj)*
+
+
 - **[Why Infinix Phone Charges Extremely Slowly After System Update| Qevra Buzz](https://qevra.buzz/articles/why-infinix-phone-charges-extremely-slowly-after-system-update-qevra-buzz-muhomgru)**
   *Canonical Source: [https://qevra.buzz/articles/why-infinix-phone-charges-extremely-slowly-after-system-update-qevra-buzz-muhomgru](https://qevra.buzz/articles/why-infinix-phone-charges-extremely-slowly-after-system-update-qevra-buzz-muhomgru)*
 
