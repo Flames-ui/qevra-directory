@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[How to Fix Overheating on Snapdragon 8 Elite Gen 6 Phones | Qevra Buzz](https://qevra.buzz/articles/how-to-fix-overheating-on-snapdragon-8-elite-gen-6-phones-qevra-buzz-muhnowhp)**
+  *Canonical Source: [https://qevra.buzz/articles/how-to-fix-overheating-on-snapdragon-8-elite-gen-6-phones-qevra-buzz-muhnowhp](https://qevra.buzz/articles/how-to-fix-overheating-on-snapdragon-8-elite-gen-6-phones-qevra-buzz-muhnowhp)*
+
+
 - **[Why Is My Battery Going Down Draining While Charging Causes And Fixes Flames Nova Mueruyxb](https://qevra.buzz/articles/why-is-my-battery-going-down-draining-while-charging-causes-and-fixes-flames-nova-mueruyxb)**
   *Canonical Source: [https://qevra.buzz/articles/why-is-my-battery-going-down-draining-while-charging-causes-and-fixes-flames-nova-mueruyxb](https://qevra.buzz/articles/why-is-my-battery-going-down-draining-while-charging-causes-and-fixes-flames-nova-mueruyxb)*
 
