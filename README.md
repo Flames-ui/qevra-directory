@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[Why Infinix Phone Charges Extremely Slowly After System Update| Qevra Buzz](https://qevra.buzz/articles/why-infinix-phone-charges-extremely-slowly-after-system-update-qevra-buzz-muhomgru)**
+  *Canonical Source: [https://qevra.buzz/articles/why-infinix-phone-charges-extremely-slowly-after-system-update-qevra-buzz-muhomgru](https://qevra.buzz/articles/why-infinix-phone-charges-extremely-slowly-after-system-update-qevra-buzz-muhomgru)*
+
+
 - **[How to Optimize Battery Life on OnePlus 16 OxygenOS / ColorOS 17 | Qevra Buzz](https://qevra.buzz/articles/how-to-optimize-battery-life-on-oneplus-16-oxygenos-coloros-17-qevra-buzz-muho8mch)**
   *Canonical Source: [https://qevra.buzz/articles/how-to-optimize-battery-life-on-oneplus-16-oxygenos-coloros-17-qevra-buzz-muho8mch](https://qevra.buzz/articles/how-to-optimize-battery-life-on-oneplus-16-oxygenos-coloros-17-qevra-buzz-muho8mch)*
 
