@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[Infinix Earphone Mode Stuck on Screen: How to Disable Without Repair](https://qevra.buzz/articles/infinix-earphone-mode-stuck-on-screen-how-to-disable-without-repair-mui6bthf)**
+  *Canonical Source: [https://qevra.buzz/articles/infinix-earphone-mode-stuck-on-screen-how-to-disable-without-repair-mui6bthf](https://qevra.buzz/articles/infinix-earphone-mode-stuck-on-screen-how-to-disable-without-repair-mui6bthf)*
+
+
 - **[Tecno Camon Fingerprint Sensor Not Responding After Screen Replacement| Full Fix Guide](https://qevra.buzz/articles/tecno-camon-fingerprint-sensor-not-responding-after-screen-replacement-full-fix-guide-mui67qhk)**
   *Canonical Source: [https://qevra.buzz/articles/tecno-camon-fingerprint-sensor-not-responding-after-screen-replacement-full-fix-guide-mui67qhk](https://qevra.buzz/articles/tecno-camon-fingerprint-sensor-not-responding-after-screen-replacement-full-fix-guide-mui67qhk)*
 
