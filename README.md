@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[Itel A-Series Screen Flickering While Charging: Safe Troubleshooting Guide And Fix Steps](https://qevra.buzz/articles/itel-a-series-screen-flickering-while-charging-safe-troubleshooting-guide-and-fix-steps-muirqjhu)**
+  *Canonical Source: [https://qevra.buzz/articles/itel-a-series-screen-flickering-while-charging-safe-troubleshooting-guide-and-fix-steps-muirqjhu](https://qevra.buzz/articles/itel-a-series-screen-flickering-while-charging-safe-troubleshooting-guide-and-fix-steps-muirqjhu)*
+
+
 - **[Infinix Earphone Mode Stuck on Screen: How to Disable Without Repair](https://qevra.buzz/articles/infinix-earphone-mode-stuck-on-screen-how-to-disable-without-repair-mui6bthf)**
   *Canonical Source: [https://qevra.buzz/articles/infinix-earphone-mode-stuck-on-screen-how-to-disable-without-repair-mui6bthf](https://qevra.buzz/articles/infinix-earphone-mode-stuck-on-screen-how-to-disable-without-repair-mui6bthf)*
 
