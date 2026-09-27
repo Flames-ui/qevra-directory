@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[Android Phone Stuck at 0% or 1% Charging All Night: How to Fix](https://qevra.buzz/articles/android-phone-stuck-at-0-or-1-charging-all-night-how-to-fix-muji7qag)**
+  *Canonical Source: [https://qevra.buzz/articles/android-phone-stuck-at-0-or-1-charging-all-night-how-to-fix-muji7qag](https://qevra.buzz/articles/android-phone-stuck-at-0-or-1-charging-all-night-how-to-fix-muji7qag)*
+
+
 - **[Phone Battery Percentage Dropping While Connected to Charger: 5 Direct Fixes](https://qevra.buzz/articles/phone-battery-percentage-dropping-while-connected-to-charger-5-direct-fixes-mujhz13e)**
   *Canonical Source: [https://qevra.buzz/articles/phone-battery-percentage-dropping-while-connected-to-charger-5-direct-fixes-mujhz13e](https://qevra.buzz/articles/phone-battery-percentage-dropping-while-connected-to-charger-5-direct-fixes-mujhz13e)*
 
