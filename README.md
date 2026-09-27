@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[Phone Battery Percentage Dropping While Connected to Charger: 5 Direct Fixes](https://qevra.buzz/articles/phone-battery-percentage-dropping-while-connected-to-charger-5-direct-fixes-mujhz13e)**
+  *Canonical Source: [https://qevra.buzz/articles/phone-battery-percentage-dropping-while-connected-to-charger-5-direct-fixes-mujhz13e](https://qevra.buzz/articles/phone-battery-percentage-dropping-while-connected-to-charger-5-direct-fixes-mujhz13e)*
+
+
 - **[Itel A-Series Screen Flickering While Charging: Safe Troubleshooting Guide And Fix Steps](https://qevra.buzz/articles/itel-a-series-screen-flickering-while-charging-safe-troubleshooting-guide-and-fix-steps-muirqjhu)**
   *Canonical Source: [https://qevra.buzz/articles/itel-a-series-screen-flickering-while-charging-safe-troubleshooting-guide-and-fix-steps-muirqjhu](https://qevra.buzz/articles/itel-a-series-screen-flickering-while-charging-safe-troubleshooting-guide-and-fix-steps-muirqjhu)*
 
