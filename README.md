@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[Minecraft Dungeons II Is Out Today: Release Time, Platforms and Game Pass and What You Need to Know](https://qevra.buzz/articles/minecraft-dungeons-ii-is-out-today-release-time-platforms-and-game-pass-and-what-you-need-to-know-mumi4lin)**
+  *Canonical Source: [https://qevra.buzz/articles/minecraft-dungeons-ii-is-out-today-release-time-platforms-and-game-pass-and-what-you-need-to-know-mumi4lin](https://qevra.buzz/articles/minecraft-dungeons-ii-is-out-today-release-time-platforms-and-game-pass-and-what-you-need-to-know-mumi4lin)*
+
+
 - **[Wladimir Klitschko Daughter Inheritance Petition: What We Know, What Happened and What You Need to Know](https://qevra.buzz/articles/wladimir-klitschko-daughter-inheritance-petition-what-we-know-what-happened-and-what-you-need-to-know-mumhtxsg)**
   *Canonical Source: [https://qevra.buzz/articles/wladimir-klitschko-daughter-inheritance-petition-what-we-know-what-happened-and-what-you-need-to-know-mumhtxsg](https://qevra.buzz/articles/wladimir-klitschko-daughter-inheritance-petition-what-we-know-what-happened-and-what-you-need-to-know-mumhtxsg)*
 
