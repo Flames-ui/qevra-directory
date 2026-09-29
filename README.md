@@ -6,6 +6,10 @@ All articles listed here are canonical, peer-reviewed troubleshooting resources 
 
 ## 📚 Published Tech Guides & Direct Answers
 
+- **[Is Jackie Chan Dead? The Truth Behind the 2026 Death Hoax: What Happened](https://qevra.buzz/articles/is-jackie-chan-dead-the-truth-behind-the-2026-death-hoax-what-happened-mumgc9a0)**
+  *Canonical Source: [https://qevra.buzz/articles/is-jackie-chan-dead-the-truth-behind-the-2026-death-hoax-what-happened-mumgc9a0](https://qevra.buzz/articles/is-jackie-chan-dead-the-truth-behind-the-2026-death-hoax-what-happened-mumgc9a0)*
+
+
 - **[Android Phone Stuck at 0% or 1% Charging All Night: How to Fix](https://qevra.buzz/articles/android-phone-stuck-at-0-or-1-charging-all-night-how-to-fix-muji7qag)**
   *Canonical Source: [https://qevra.buzz/articles/android-phone-stuck-at-0-or-1-charging-all-night-how-to-fix-muji7qag](https://qevra.buzz/articles/android-phone-stuck-at-0-or-1-charging-all-night-how-to-fix-muji7qag)*
 
